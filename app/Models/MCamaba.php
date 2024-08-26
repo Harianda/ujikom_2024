@@ -36,4 +36,5 @@ class MCamaba extends Model
     protected $casts = [
         'tgl_lahir' => 'date',
     ];
+    //new
 }
